@@ -9,6 +9,7 @@ function App() {
   return (
     <div className="App">
   <FilteringTable/>
+    <h1>React Table</h1>
     </div>
   );
 }
